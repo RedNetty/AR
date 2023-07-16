@@ -23,7 +23,7 @@ public class KillAllCommand implements CommandExecutor {
                         }
                     }
                     Spawners.mobs.clear();
-                    Spawners.respawntimer.clear();
+                    Spawners.respawnTimer.clear();
                 }
             }
         }
